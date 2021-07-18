@@ -43,3 +43,10 @@ Tereshchenko Dmitrij, (*Tsiareshchanka Dzmitrui*)
 	 transition-property: border-color, border-radius, box-shadow;
 	 transition-duration: .7s;
 	 box-shadow: 0px 0px 0px 0px #ffffff;}
+## Work experience:
++ completed project [greendekor.by](http://greendekor.by/)
+## Education:
++ high school
++ Polytechnic College
+## English
++ A1
